@@ -1,0 +1,18 @@
+.navbar-element {
+  margin-left: 10%;
+}
+
+.navbar-brand {
+  margin-left: 2%;
+}
+
+.navbar-elements-container {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.navbar-element-link {
+  color:rgb(43, 125, 126) !important;
+  margin-left: 10%;
+
+}
